@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(124, 154, 184);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background-color: rgb(173, 214, 220);
+    color: rgb(132, 35, 35);
+    margin: 5px;
+    padding: 6px;
+    border-radius: 14px;
+    width: 54px;
+    height: 50px;
+}
+input{
+    background-color: rgb(193, 205, 224);
+    color: rgb(0, 0, 0);
+    padding: 2px;
+    margin: 0;
+    border-radius: 0;
+    width: 263px;
+    height: 40px;
+}
+.container{
+    background-color: rgb(114, 183, 205);
+    width: 270px;
+    height: 354px
+}
+#equal{
+    height: 55px;
+    width: 55px;
+    color: rgb(6, 5, 5);  
+    background-color: rgb(157, 195, 229);
+}  
+#abc{
+    height: 50px;
+}
